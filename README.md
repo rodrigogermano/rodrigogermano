@@ -7,6 +7,7 @@ My names is Rodrigo Germano. I'm from Brazil. I'm a developer, that has been wor
 
 ### Reach me out 👇🏽
 
+[![https://www.linkedin.com/in/rodrigogermano/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigogermano/)
 [![https://www.linkedin.com/in/rodrigogermano/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 
 [![germano.rodrigo@hotmail.com](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]
