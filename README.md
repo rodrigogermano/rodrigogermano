@@ -1,6 +1,6 @@
 # Welcome my GitHub.
 
-My names is Rodrigo Germano. I'm from Brazil. I'm a developer, that has been working as a back-end developer since 2013. 
+My name is Rodrigo Germano. I'm from Brazil. I'm a developer, that has been working as a back-end developer since 2013. 
 
 - 📍 From RJ - Brazil 
 -  Developer at [Teadit Group](https://teadit.com/)
